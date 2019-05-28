@@ -1,6 +1,6 @@
 {
   "name": "Login",
-  "description": "Blank Process",
+  "description": "Login",
   "main": "Login.xaml",
   "dependencies": {
     "smrCustom": "[1.0.9]",
